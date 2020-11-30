@@ -1,4 +1,4 @@
 # Navmenu
-Dinamically creating Navigation menu from .csv file done with Vanilla js.
+Dinamically created Navigation menu from .csv file done with VanillaJS.
 # Check it out here:
 https://flamboyant-hopper-3922ea.netlify.app/
